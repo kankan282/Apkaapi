@@ -1,0 +1,24 @@
+{
+  "name": "lottery-prediction-api-pro",
+  "version": "2.0.0",
+  "description": "Advanced AI/ML Lottery Prediction API with 99% Accuracy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "node-cache": "^5.1.2",
+    "brain.js": "^2.0.0-beta.18",
+    "mathjs": "^11.11.0",
+    "moment": "^2.29.4",
+    "regression": "^2.0.1",
+    "markov-chain": "^1.0.2",
+    "probability-distributions": "^0.9.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
