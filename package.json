@@ -1,7 +1,7 @@
 {
-  "name": "lottery-prediction-api",
+  "name": "Apkaapi",
   "version": "1.0.0",
-  "description": "AI/ML Lottery Prediction API",
+  "description": "AI Lottery Prediction API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,8 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.0",
-    "cors": "^2.8.5",
-    "node-cache": "^5.1.2"
+    "cors": "^2.8.5"
   },
   "engines": {
     "node": ">=16.0.0"
